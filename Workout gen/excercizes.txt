@@ -1,0 +1,95 @@
+[core]
+Side plank raises
+Plank
+Plank to press-up
+Sit-ups
+Russian twists
+Twist superman
+Hip raises
+Leg raises
+Lean on sofa and lift body
+Abdominal scissors
+Side plank
+Bicycle crunches
+Mountain climbers
+Dead bug
+Bird dog
+Flutter kicks
+Hollow body hold
+V-ups
+Reverse crunches
+Heel touches
+Kettlebell windmill
+Kettlebell halo
+Weighted Russian twists
+Plank shoulder taps
+Toe touches
+Bear crawl
+
+[arms]
+Push-ups
+Pike push-up
+Alternate side press-ups
+Press-up on kettlebell
+Press-up move kettlebell
+Press-up lift
+Clean
+Clean and press
+Single arm press
+Lying press
+Double press
+Swings
+Bent over row
+Single arm row
+Around the world
+Turkish get-up
+Diamond push-ups
+Wide push-ups
+Tricep dips
+Bicep curls
+Hammer curls
+Overhead tricep extension
+Skull crushers
+Upright row
+Front raise
+Lateral raise
+Reverse fly
+Arnold press
+Kettlebell high pull
+Kettlebell snatch
+Bottoms-up press
+Decline push-ups
+Archer push-ups
+Renegade row
+
+[legs]
+Goblet squat
+Racked squat
+Squat to press
+Single arm squat to press (thruster)
+Side lunge
+Lunge
+Deadlift
+Single arm dead lift
+Reverse lunge
+Walking lunge
+Bulgarian split squat
+Sumo squat
+Sumo deadlift
+Romanian deadlift
+Single leg deadlift
+Glute bridges
+Single leg glute bridge
+Calf raises
+Wall sit
+Step-ups
+Jump squats
+Curtsy lunge
+Box squat
+Pistol squat
+Kettlebell swing
+Cossack squat
+Squat hold
+Donkey kicks
+Lateral step-ups
+Farmer's walk
