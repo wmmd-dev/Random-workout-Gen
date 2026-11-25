@@ -1,7 +1,7 @@
 import random
 
 
-
+filename = excercizes.txt
 
 
 menu = str("""
@@ -15,6 +15,8 @@ menu = str("""
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠛⠛⠛⠛⠋⠀
 
 """)
+
+
 def load_exercises(filename):
     exercises = {}
     category = None
